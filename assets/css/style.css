@@ -1,0 +1,39 @@
+.pace {
+    display: none;
+}
+
+.main-style {
+    min-height: 100vh;
+    background: url(../img/cover/cover-scrum-board.png) no-repeat fixed;
+    background-size: 360px;
+    background-position: right bottom;
+}
+
+.homepage  li {
+ list-style: none;
+ 
+}
+.description1{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* .b1{
+    float: right;
+    margin-top: -3%;
+} */
+/* .btn-dark:hover{
+    color: #9D84BF;
+    background-color:#9D84BF ;
+   
+} */
+
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;  
+  
+}
+
+
+
